@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container h2{
+    padding: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    text-align: center;
+    color: #8a8989;
+}
+.button{
+    margin: auto;
+    font-weight: 500;
+    height: 40px;
+    width: 200px;
+    padding: 5px;
+    background-color: #F97230;
+    text-align: center;
+    margin-top: -20px;
+    color: #ffffff;
+}
+button{
+    border: none;
+    padding: 10px;
+}
+button:hover span{
+    color: #F97230;
+}
